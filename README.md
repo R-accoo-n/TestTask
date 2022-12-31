@@ -17,3 +17,5 @@ code should be launched in a separate git repository, and a
 link should be provided after execution.
 ```
 - [Spring initializr](https://start.spring.io/)
+
+.env file example is located in main folder with name env.example
